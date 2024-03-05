@@ -14,13 +14,20 @@ Faço projetos com o Arduino 📱
 
 Uso C++ e Portugol 💻
 
-Sou formado em:🎓
+Sou formado em:🎓]
+
 Blender
+
 After Effects
+
 Substance Painter
+
 Photoshop
+
 Ilustrator
+
 Zbrush
+
 Unreal Engine
 
  
