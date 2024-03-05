@@ -38,6 +38,8 @@ Estou me formando em:🎓
 
 Desenvolvimento de sistemas
 
+Assistente administrativo
+
 Ilustração Vetorial
 
  
