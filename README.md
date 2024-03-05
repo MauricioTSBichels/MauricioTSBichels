@@ -2,7 +2,7 @@
  
 Meu nome é Mauricio😁  
 
-Estudo no SENAI 🏫
+Estudo no SESI/SENAI 🏫
 
 Sou um aluno da SAGA💥
 
@@ -14,7 +14,7 @@ Faço projetos com o Arduino 📱
 
 Uso C++ e Portugol 💻
 
-Sou formado em:🎓]
+Sou formado em:🎓
 
 Blender
 
@@ -29,5 +29,11 @@ Ilustrator
 Zbrush
 
 Unreal Engine
+
+Estou me formando em:🎓
+
+Desenvolvimento de sistemas
+
+Ilustração Vetorial
 
  
