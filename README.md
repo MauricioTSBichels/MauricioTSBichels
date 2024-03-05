@@ -8,7 +8,9 @@ Sou um aluno da SAGA💥
 
 Trabalho na Décio/Intelbras🏢
 
-Sou um animador 2D e 3D 🎬  
+Sou um animador 2D e 3D 🎬 
+
+Meu perfil no Artstation é:https://www.artstation.com/mauriciotellessilva
 
 Faço projetos com o Arduino 📱 
 
