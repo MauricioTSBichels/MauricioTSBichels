@@ -16,7 +16,7 @@ https://www.artstation.com/mauriciotellessilva
 
 Faço projetos com o Arduino 📱 
 
-Uso C++ e Portugol 💻
+Uso C++,Portugol e HTML 💻
 
 Sou formado em:🎓
 
