@@ -16,15 +16,17 @@ https://www.artstation.com/mauriciotellessilva
 
 Faço projetos com o Arduino 📱 
 
-Uso C++,Portugol e HTML 💻
+Uso C++,Portugol,Javascript e HTML 💻
 
 Sou formado em:🎓
+
+Substance painter 3D
 
 Blender
 
 After Effects
 
-Substance Painter
+Ilustração vetorial
 
 Photoshop
 
@@ -39,7 +41,3 @@ Estou me formando em:🎓
 Desenvolvimento de sistemas
 
 Assistente administrativo
-
-Ilustração Vetorial
-
- 
