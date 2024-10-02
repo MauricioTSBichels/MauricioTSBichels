@@ -4,8 +4,6 @@ Meu nome é Mauricio😁
 
 Estudo no SESI/SENAI 🏫
 
-Sou um aluno da SAGA💥
-
 Trabalho na Décio/Intelbras🏢
 
 Sou um animador 2D e 3D 🎬 
@@ -27,6 +25,8 @@ Blender
 After Effects
 
 Ilustração vetorial
+
+Tecnogias imersivas
 
 Photoshop
 
