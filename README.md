@@ -26,7 +26,7 @@ After Effects
 
 Ilustração vetorial
 
-Tecnogias imersivas
+Tecnologias imersivas
 
 Photoshop
 
