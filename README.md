@@ -4,8 +4,6 @@ Meu nome é Mauricio😁
 
 Estudo no SESI/SENAI 🏫
 
-Trabalho na Décio/Intelbras🏢
-
 Sou um animador 2D e 3D 🎬 
 
 Meu perfil no Artstation é:🖼
